@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Android_lab_9</string>
+    <string name="game_neon_white">Neon White</string>
+    <string name="desc_neon_white">Шутер от первого лица на скорость, где вы играете за демона в раю.</string>
+    <string name="game_ghostrunner">Ghostrunner</string>
+    <string name="desc_ghostrunner">Киберпанк-слешер от первого лица с паркуром и мгновенной смертью.</string>
+    <string name="game_metal_gear">Metal Gear Rising: Revengeance</string>
+    <string name="desc_metal_gear">Экшен-слешер про киборга-ниндзя c мечом позволяющим прорезать всё что угодно.</string>
+    <string name="game_deep_rock">Deep Rock Galactic</string>
+    <string name="desc_deep_rock">Кооперативный шутер про космических дворфов-шахтеров.</string>
+    <string name="game_age_wonders">Age of Wonders 4</string>
+    <string name="desc_age_wonders">Пошаговая стратегия с элементами RPG в фэнтезийном мире.</string>
+    <string name="game_warhammer">Warhammer 40,000: Darktide</string>
+    <string name="desc_warhammer">Кооперативный экшен во вселенной Warhammer 40K против орд врагов.</string>
+    <string name="previous">Назад</string>
+    <string name="next">Вперед</string>
 </resources>
